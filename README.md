@@ -6,7 +6,7 @@ This project is a fun and interactive implementation of the classic hand game, b
 -Real-Time Feedback: Visual and textual updates after each round, showing the winner or a tie.
 -Score Tracker: Keeps track of your wins, losses, and ties.
 -Responsive Design: Works seamlessly on desktops and mobile devices.
-<img src="Obys.png" alt="Obys Agency Website Clone Preview"></p>
+<img src="Game.png" alt="Game"></p>
 <h2 id="overview">Purpose 💡</h2>
 <p>This project serves as a beginner-friendly example of:
 
